@@ -19,8 +19,8 @@ This project aims to build an **End-to-End Data & AI Platform** that covers the 
 
 ## 📂 Stage 1: Data Sources
 
-- **Transactions (CSV/SQL):** Sales and financial transaction data.  
-- **Clickstream / Logs (CSV/JSON):** User activity events (page_view, add_to_cart, purchase).  
+- **Transactions (CSV):** Sales and financial transaction data.  
+- **Clickstream / Logs (CSV/):** User activity events (page_view, add_to_cart, purchase)  >> use for streaming.  
 - **Complaints (Excel):** Customer service and complaints records.  
 - **Reviews (JSON):** Customer feedback, surveys, and product reviews.  
 
