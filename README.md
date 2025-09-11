@@ -13,7 +13,7 @@ This project aims to build an **End-to-End Data & AI Platform** that covers the 
 ---
 
 ## 🏗️ Orchestration Diagram
-![Orchestration](images/orchestration.png)
+![Orchestration](image/orchestration.png)
 
 ---
 
