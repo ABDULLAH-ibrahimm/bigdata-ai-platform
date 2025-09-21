@@ -5,7 +5,7 @@ This document explains the design and steps of our data ingestion pipeline, incl
 ---
 
 ## 🌐 Data Lake Location
-`gs://bigdata-ai-datalake`
+`https://console.cloud.google.com/storage/browser/bigdata-ai-datalake;tab=objects?prefix=&forceOnObjectsSortingFiltering=false`
 
 ---
 
